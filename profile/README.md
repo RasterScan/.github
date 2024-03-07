@@ -13,6 +13,6 @@ From converting intricate hand-drawn sketches to deploying sophisticated virtual
 
 ## Contact
 
-<a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail " alt="faceplugin.com"></a>&emsp;
-<a target="_blank" href="https://t.me/faceplugin"><img src="https://img.shields.io/badge/telegram-@faceplugin-blue.svg?logo=telegram " alt="faceplugin.com"></a>&emsp;
-<a target="_blank" href="https://wa.me/+14422295661"><img src="https://img.shields.io/badge/whatsapp-faceplugin-blue.svg?logo=whatsapp " alt="faceplugin.com">
+<a target="_blank" href="mailto:contact@rasterscan.com"><img src="https://img.shields.io/badge/email-contact@rasterscan.com-blue.svg?logo=gmail " alt="rasterscan.com"></a>&emsp;
+<a target="_blank" href="https://t.me/andywu0202"><img src="https://img.shields.io/badge/telegram-@rasterscan-blue.svg?logo=telegram " alt="rasterscan.com"></a>&emsp;
+<a target="_blank" href="https://wa.me/+14422295661"><img src="https://img.shields.io/badge/whatsapp-rasterscan-blue.svg?logo=whatsapp " alt="rasterscan.com">
